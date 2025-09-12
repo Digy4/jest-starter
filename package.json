@@ -10,7 +10,7 @@
     "custom"
   ],
   "dependencies": {
-    "@digy4/digyrunner-jest": "^0.0.1"
+    "@digy4/digyrunner-jest": "^0.0.2"
   },
   "scripts": {
     "test": "jest"
